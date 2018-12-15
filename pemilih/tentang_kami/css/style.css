@@ -1,0 +1,24 @@
+nav.navbarkpu,footer,div.tentangkami{
+	background-color: #171441;
+}
+a.nav-link,footer,div.tentangkami,span,._footer{
+	text-align: center;
+	color: #fff;
+}
+.col-md-6{
+	border: 1px solid #fff;
+}
+.container-fluid{
+	background-color: #c2c1cb;
+}
+._margin{
+	margin: 30px;
+	text-align: left;
+}
+._footer{
+	background-color: #272d77;
+}
+._align{
+	padding: 30px;
+	text-align: center;
+}

@@ -1,0 +1,26 @@
+body.wide div.fw-body{
+	width:80%;
+	:right
+}
+body.wide div.fw-page-nav{
+	display:none
+}
+td th .table{
+	border-spacing: 0px;
+}
+.col-md-6{
+	border: 1px solid #fff;
+}
+.navbarkpu,footer{
+	background-color: #171441;
+}
+a.nav-link,._footer,footer,span{
+	text-align: center;
+	color: #fff;
+}
+._footer{
+	background-color: #272d77;
+}
+a:hover{
+	color: #0056b3;
+}
